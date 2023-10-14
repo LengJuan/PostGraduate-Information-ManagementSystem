@@ -1,0 +1,110 @@
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\bin\Debug\研究生信息管理系统.exe.config
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\bin\Debug\研究生信息管理系统.exe
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\bin\Debug\研究生信息管理系统.pdb
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.AssemblyReference.cache
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.SuggestedBindingRedirects.cache
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.Form1.resources
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.Properties.Resources.resources
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.GenerateResource.cache
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.CoreCompileInputs.cache
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.exe
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.pdb
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmMain.resources
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmMajor.resources
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.frmexercitation.resources
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.frmpaper.resources
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.frmparty.resources
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.frmprofessor.resources
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.frmstudent.resources
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmCourse.resources
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmGrade.resources
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\bin\Debug\IrisSkin4.dll
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.CopyComplete
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmUser.resources
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmRegister.resources
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmAgreement.resources
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmLoad.resources
+D:\visual studio 2022\研究生信息管理系统\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmUpdate.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\bin\Debug\研究生信息管理系统.exe.config
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\bin\Debug\研究生信息管理系统.exe
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\bin\Debug\研究生信息管理系统.pdb
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\bin\Debug\IrisSkin4.dll
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.AssemblyReference.cache
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.SuggestedBindingRedirects.cache
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.Form1.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmAgreement.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmCourse.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmExercitation.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmGrade.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmLoad.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmMain.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmMajor.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmPaper.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmParty.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmProfessor.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmRegister.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmStudent.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmUpdate.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmUser.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.Properties.Resources.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.GenerateResource.cache
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.CoreCompileInputs.cache
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.CopyComplete
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.exe
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.pdb
+D:\visual studio 2022\研究生信息管理系统 - 07121049\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.ResolveComReference.cache
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\bin\Debug\研究生信息管理系统.exe.config
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\bin\Debug\研究生信息管理系统.exe
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\bin\Debug\研究生信息管理系统.pdb
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\bin\Debug\IrisSkin4.dll
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.AssemblyReference.cache
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.SuggestedBindingRedirects.cache
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.ResolveComReference.cache
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.Form1.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmAgreement.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmCourse.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmExercitation.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmGrade.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmLoad.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmMain.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmMajor.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmPaper.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmParty.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmProfessor.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmRegister.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmStudent.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmUpdate.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmUser.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.Properties.Resources.resources
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.GenerateResource.cache
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.CoreCompileInputs.cache
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.CopyComplete
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.exe
+D:\visual studio 2022\研究生信息管理系统 - 07121049 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.pdb
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\bin\Debug\研究生信息管理系统.exe.config
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\bin\Debug\研究生信息管理系统.exe
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\bin\Debug\研究生信息管理系统.pdb
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.AssemblyReference.cache
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.SuggestedBindingRedirects.cache
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.ResolveComReference.cache
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.Form1.resources
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmAgreement.resources
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmCourse.resources
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmExercitation.resources
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmGrade.resources
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmLoad.resources
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmMain.resources
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmMajor.resources
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmPaper.resources
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmParty.resources
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmProfessor.resources
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmRegister.resources
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmStudent.resources
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmUpdate.resources
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.FrmUser.resources
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.Properties.Resources.resources
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.GenerateResource.cache
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.CoreCompileInputs.cache
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.csproj.CopyComplete
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.exe
+C:\Users\16840\Desktop\研究生信息管理系统\计类22-03-03-冷娟-程序源码 (2)\研究生信息管理系统 - 07121049 - 副本 - 副本\研究生信息管理系统\obj\Debug\研究生信息管理系统.pdb
